@@ -32,4 +32,5 @@ Clareia ou escurece o pixel foi utilizado para fazer a sombra dos personagens.
 
 Color picker: 
 Selecionar a mesma cor do pixel selecionado.
+
 ![MERGE!](https://github.com/NicollasLems/pixelarts/assets/160983146/5678d804-bb83-41f3-b203-0f6ef52eb6cc)
